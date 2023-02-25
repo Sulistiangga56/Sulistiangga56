@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Angga Sulistiangga**.\
+
+Saya seorang **Mahasiswa Teknik Informatika** di [Politeknik Negeri Jakarta](https://pnj.ac.id/).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sulistiangga/) ku ya.
 <!--
 **Sulistiangga56/Sulistiangga56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
