@@ -22,6 +22,8 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
 
 😄 Fun fact: When I'm not coding, you'll find me exploring new places, capturing moments through my story, or playing the game.
 
+⭐️ Check out my repositories for more interesting projects!
+
 <!-- GitHub Stats -->
 <p align="left">
   <a href="https://github.com/Sulistiangga56">
@@ -29,5 +31,3 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sulistiangga56&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-⭐️ Check out my repositories for more interesting projects!
