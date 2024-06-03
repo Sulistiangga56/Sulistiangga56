@@ -22,10 +22,10 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
 
 😄 Fun fact: When I'm not coding, you'll find me exploring new places, capturing moments through my story, or playing the game.
 
-⭐️ Check out my repositories for more interesting projects! 
-[My Portofolio with NextJs (2023)](https://goldenlion.vercel.app/) 
-[My Portofolio V version (2024)](https://goldenlionv2.vercel.app/)
-[My Portofolio TailwindCSS version (85%)](Coming Soon...)
+⭐️ Check out my repositories for more interesting projects!.
+[My Portofolio with NextJs (2023)](https://goldenlion.vercel.app/). 
+[My Portofolio V version (2024)](https://goldenlionv2.vercel.app/).
+[My Portofolio TailwindCSS version (85%)](Coming Soon...).
 [My Portofolio ReactJs Modern version (20%)](Coming Soon...).
 
 <!-- GitHub Stats -->
