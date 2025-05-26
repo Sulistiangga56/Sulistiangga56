@@ -4,8 +4,6 @@
 
 My name is **Angga Sulistiangga**.\
 
-I am an Informatics Engineering **Student** at [Politeknik Negeri Jakarta](https://pnj.ac.id/).
-
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/sulistiangga/) account.
 <!-- Your Bio -->
 ### Hi there, I'm Sulistiangga56! 👋
@@ -24,13 +22,7 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
 
 ⭐️ Check out my repositories for more interesting projects!
 
-[My Portfolio with NextJs (2023)](https://goldenlion.vercel.app/)
-
 [My Portfolio V version (2024)](https://goldenlionv2.vercel.app/)
-
-[My Portfolio TailwindCSS version (85%)](Coming Soon...)
-
-[My Portfolio ReactJs Modern version (20%)](Coming Soon...).
 
 <!-- GitHub Stats -->
 <p align="left">
