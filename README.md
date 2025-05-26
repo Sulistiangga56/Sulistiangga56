@@ -22,7 +22,7 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
 
 ⭐️ Check out my repositories for more interesting projects!
 
-[My Portfolio V version (2024)](https://goldenlionv2.vercel.app/)
+[My Portfolio V version (2025)](https://goldenlionv2.vercel.app/)
 
 <!-- GitHub Stats -->
 <p align="left">
