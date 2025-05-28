@@ -2,7 +2,7 @@
 
 # Hallo everyone! 
 
-My name is **Angga Sulistiangga**.\
+My name is **Angga Sulistiangga**.
 
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/sulistiangga/) account.
 <!-- Your Bio -->
@@ -12,7 +12,7 @@ I'm a passionate developer and open-source enthusiast. Welcome to my GitHub prof
 
 🔭 Currently, I'm working on various interesting projects to enhance my skills and knowledge.
 
-🌱 I'm continuously learning and expanding my expertise in different technologies and programming languages.
+🌱 I'm continuously learning and expanding my expertise in different technologies and programming languages (include cloud).
 
 💬 Ask me about anything related to programming, software development, or tech in general. I'm always eager to help and share knowledge.
 
